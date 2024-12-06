@@ -33,4 +33,5 @@ async function getPokemon(event) {
     }
 }
 
+
 form.addEventListener('submit', getPokemon)
